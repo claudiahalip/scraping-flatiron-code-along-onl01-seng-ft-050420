@@ -51,4 +51,4 @@ end
 
 Scraper.new.get_page
 #doc.css(".post")
-
+Scraper.new.print_courses
